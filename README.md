@@ -1,3 +1,5 @@
+**This is a fork from a group project, I worked on the original version but forked it so it is visible on my GitHub**
+
 Job Search Application created using Django as a framework, Python/HTML/CSS as languages, and postgreSQL/SQLite as databases.
 Choose to create a Company or User account
 
